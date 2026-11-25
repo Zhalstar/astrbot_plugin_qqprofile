@@ -2,7 +2,7 @@ name: astrbot_plugin_qqprofile
 display_name: QQ资料管理
 desc: 配置bot的头像、昵称、签名、状态等QQ资料, 同时可绑定于不同人格
 help: 略
-version: v1.1.6
+version: v1.1.7
 author: 饰乐
 repo: https://github.com/Zhalstar/astrbot_plugin_qqprofile
 support_platforms:
